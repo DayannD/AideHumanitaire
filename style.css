@@ -1,0 +1,12 @@
+/* header */
+/* header{
+  background-image:url(http://www.aidehumanitaire.org/wp-content/uploads/2020/12/cropped-Aide-humanitaire-en-Afrique.jpg) ;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size:cover ;
+} */
+/* <img src="http://www.aidehumanitaire.org/wp-content/uploads/2020/12/cropped-Aide-humanitaire-en-Afrique.jpg" width="1900" height="681" alt="Aide Humanitaire" srcset="http://www.aidehumanitaire.org/wp-content/uploads/2020/12/cropped-Aide-humanitaire-en-Afrique.jpg 1900w, http://www.aidehumanitaire.org/wp-content/uploads/2020/12/cropped-Aide-humanitaire-en-Afrique-500x179.jpg 500w, http://www.aidehumanitaire.org/wp-content/uploads/2020/12/cropped-Aide-humanitaire-en-Afrique-1024x367.jpg 1024w, http://www.aidehumanitaire.org/wp-content/uploads/2020/12/cropped-Aide-humanitaire-en-Afrique-768x275.jpg 768w, http://www.aidehumanitaire.org/wp-content/uploads/2020/12/cropped-Aide-humanitaire-en-Afrique-1536x551.jpg 1536w" sizes="(max-width: 1900px) 100vw, 1900px"> */
+
+#border-taff{
+  border: solid red;
+}
