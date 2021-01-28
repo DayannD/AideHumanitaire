@@ -10,3 +10,12 @@
 #border-taff{
   border: solid red;
 }
+
+section img {
+  min-height: 300px;
+  max-height: 300px;
+}
+
+section .card{
+  max-height: 600px;
+}
