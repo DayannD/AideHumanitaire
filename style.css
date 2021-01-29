@@ -11,6 +11,13 @@
   border: solid red;
 }
 
+body {
+  font-family: 'advent Pro',sans-serif;
+  padding: 0;
+  font-size: 14px;
+  margin: 0;
+  background-color: white;
+}
 p,h2{
   padding:5px;
 }
@@ -44,3 +51,21 @@ a{
 a:hover{
   text-decoration: underline;
 }
+
+.img {
+  display: block;
+  height: auto;
+  max-width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  padding-bottom: 20px;
+}
+
+.descrip {   
+display: block;
+margin: 0 auto;
+max-width: 826px;
+padding: 0 35px;
+width: 100%;
+}
+
