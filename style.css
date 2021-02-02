@@ -9,10 +9,12 @@ p,h2{
 }
 
 section img {
+  /* img dans les articles  */
   min-height: 300px;
   max-height: 300px;
 }
 section .card {
+  /* card dans les articles  */
   display: block; 
     margin-bottom: 20px;
     line-height: 1.42857143;
@@ -22,6 +24,7 @@ section .card {
     transition: box-shadow .25s; 
 }
 section .card:hover{
+  /* effet zoom sur les cards  */
   transform: scale(1.05);
 box-shadow: 0 10px 20px rgba(0,0,0,.12), 0 4px 8px rgba(0,0,0,.06);
 }
@@ -39,6 +42,7 @@ a:hover{
 }
 
 .img {
+  /* img seconde page  */
   display: block;
   height: auto;
   max-width: 100%;
@@ -49,6 +53,7 @@ a:hover{
 }
 
 .descrip {  
+  /* block de text seconde page  */
 display: block;
 margin: 20px auto;
 max-width: 826px;
