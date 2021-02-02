@@ -61,3 +61,8 @@ padding: 0 35px;
 width: 100%;
 }
 
+@media (max-width: 576px) { 
+  section .card:hover{
+    transform: none;
+  }
+ }
